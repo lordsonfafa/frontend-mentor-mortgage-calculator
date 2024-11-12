@@ -42,15 +42,15 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
-- [Bootstrap](https://fetbootstrap.com)
+- [Bootstrap](https://getbootstrap.com)
 - [google fonts](https://googlefonts.com) - For styles
 
 ### Useful resources
 
-- [Stack Overflow](https://www.stackoverflow.com) - This is the best place so far from my opinion if you are looking for solutions to problems you face while coding.
+- [StackOverflow](https://www.stackoverflow.com) - This is the best place so far from my opinion if you are looking for solutions to problems you face while coding.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lordsonfafa)
+- Website - [Lordson Fafa Borngreat](https://www.your-site.com)
+- Frontend Mentor - [@lordsonfafa](https://www.frontendmentor.io/profile/lordsonfafa)
 - Instagram - [lf_borngreat](https://www.instagram.com/lf_borngreat)
